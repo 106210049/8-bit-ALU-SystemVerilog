@@ -2,7 +2,7 @@
 
 ## ALU block:
 
-<img src="ALU_block.png" width="600" >  
+<img src="ALU/ALU_block.png" width="600" >  
 
 ## Introduction to 1 bit ALU:
 <img src="1bit_alu.png" width="600" >  
