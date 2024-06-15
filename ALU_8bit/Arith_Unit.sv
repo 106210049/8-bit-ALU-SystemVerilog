@@ -2,6 +2,7 @@
 `ifndef SYNTHESIS
     timeunit 1ps;
     timeprecision 1ps;
+`endif
 `include "Full_Adder.sv"
 `include "Full_Subtractor.sv"
 `include "4_bit_multiple.sv"
@@ -53,10 +54,10 @@ always_comb	 begin: arith_proc
           {arith_out_flag,arith_out}={subtractor_1_Bout,subtractor_1_out};
         end
         ALU_OP_SHL: begin
-          {arith_out_flag,arith_out} = {in_a, input_carry};
+          {arith_out_flag,arith_out} = {in_a[DATA_WIDTH-2:0], input_carry};
 		end
         ALU_OP_SHR: begin
-          {arith_out_flag,arith_out} = {input_carry, in_a};
+          {arith_out_flag,arith_out} = {input_carry, in_a[DATA_WIDTH-1:1]};
         end
           default:	begin
             arith_out=0;
