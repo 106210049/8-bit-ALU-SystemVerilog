@@ -64,7 +64,10 @@ In there:
 - in_b[7:0] : value input b.
 - input_carry: value input carry to ALU
 - alu_out[7:0]: output of ALU block.
-- alu_out_flag: flag output of ALU block.
+- alu_out_flag [5:0]: flag output of ALU block.
+
+## ALU 8 bit Synthesis:
+<img src="Image/ALU Synthesis.png" width="600" >  
 
   
 
