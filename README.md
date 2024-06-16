@@ -55,7 +55,7 @@ The last bit of the code input acts as a mode selection for ALU. Remaining 3 are
 
 ------
 
-# 8 bit ALU Specification:
+# 8 bit ALU Specification (my design):
 ## ALU 8 bit block summary:
 <img src="Image/ALU-8 bit block.png" width="600" >  
 
