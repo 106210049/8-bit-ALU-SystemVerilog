@@ -56,3 +56,16 @@ The last bit of the code input acts as a mode selection for ALU. Remaining 3 are
 ------
 
 # 8 bit ALU Specification:
+## ALU 8 bit block summary:
+<img src="Image/ALU-8 bit block.png" width="600" >  
+
+In there:
+- in_a[7:0] : value input a.
+- in_b[7:0] : value input b.
+- input_carry: value input carry to ALU
+- alu_out[7:0]: output of ALU block.
+- alu_out_flag: flag output of ALU block.
+
+  
+
+
