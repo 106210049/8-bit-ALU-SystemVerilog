@@ -66,7 +66,7 @@ In there:
 - alu_out[7:0]: output of ALU block.
 - alu_out_flag [5:0]: flag output of ALU block.
 
-## ALU 8 bit Synthesis:
+## ALU 8 bit high level specification:
 <img src="Image/ALU Synthesis.png" width="600" >  
 
   
