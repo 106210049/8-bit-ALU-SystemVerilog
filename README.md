@@ -69,6 +69,9 @@ In there:
 ## ALU 8 bit high level specification:
 <img src="Image/ALU Synthesis.png" width="600" >  
 
+## Arith unit high level specification: 
+<img src="Image/Arith_unit.png" width="600" >  
+
   
 
 
