@@ -302,3 +302,10 @@ endmodule: Logic
 
 ```
 
+# Simulation:
+
+## EPWAVE:
+<img src="Image/EPWAVE.png" width="600" >  
+
+## Log file:
+<img src="Image/LOGFILE.png" width="600" >  
