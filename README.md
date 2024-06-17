@@ -309,3 +309,5 @@ endmodule: Logic
 
 ## Log file:
 <img src="Image/LOGFILE.png" width="600" >  
+
+My code in EDA Playground: [ALU 8 bit Synthesis](https://edaplayground.com/x/LGC6)
