@@ -40,7 +40,7 @@
 ------
 
 
-# 8 bit ALU Specification (my design):
+# ALU 8 bit Specification (my design):
 ## ALU 8 bit block summary:
 <img src="Image/ALU-8 bit block.png" width="600" >  
 
