@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T01:32:24.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6RGEWfjxxLL1_NjQGZ33" version="24.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-17T02:33:15.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HqKclJiTkHbn5BBb6B-o" version="24.5.4" type="github" pages="3">
   <diagram name="ALU Summary" id="SLZDK1cGRIOzYY7hZdzV">
     <mxGraphModel dx="858" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -661,7 +661,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_H7m3Mu4Hxfc-V-vvd9r" name="Logic Unit">
-    <mxGraphModel dx="1116" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -829,6 +829,18 @@
         </mxCell>
         <mxCell id="FLyAzHvvrbCv5CxIpv7j-1" value="logic_out_flag [5:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzCSqcgiQVTMbBWzrAEt-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Logic Unit Block&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="273.67" y="20" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzCSqcgiQVTMbBWzrAEt-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="180" as="sourcePoint" />
+            <mxPoint x="580" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzCSqcgiQVTMbBWzrAEt-3" value="alu_opcode [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="150" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
