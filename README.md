@@ -37,7 +37,21 @@
 ## ALU block with Logical Unit and adder and subtractor:
 <img src="Image/With_subtraction.png" width="600" >  
 
-## Instruction ALU OPCODE ( My design specification)
+------
+
+
+# 8 bit ALU Specification (my design):
+## ALU 8 bit block summary:
+<img src="Image/ALU-8 bit block.png" width="600" >  
+
+In there:
+- in_a[7:0] : value input a.
+- in_b[7:0] : value input b.
+- input_carry: value input carry to ALU
+- alu_out[7:0]: output of ALU block.
+- alu_out_flag [5:0]: flag output of ALU block.
+
+  ## Instruction ALU OPCODE ( My design specification)
 The last bit of the code input acts as a mode selection for ALU. Remaining 3 are used for the ALU operation.
 
 0000 - Mode 0, Arithmetic Unit for ADD
@@ -68,20 +82,8 @@ The last bit of the code input acts as a mode selection for ALU. Remaining 3 are
 
 1101 - Mode 1, Logical NOT B
 
-------
 
 
-# 8 bit ALU Specification (my design):
-## ALU 8 bit block summary:
-<img src="Image/ALU-8 bit block.png" width="600" >  
-
-In there:
-- in_a[7:0] : value input a.
-- in_b[7:0] : value input b.
-- input_carry: value input carry to ALU
-- alu_out[7:0]: output of ALU block.
-- alu_out_flag [5:0]: flag output of ALU block.
-- 
 Source code: CPU_package.sv
 ```SystemVerilog
 package CPU_package;
