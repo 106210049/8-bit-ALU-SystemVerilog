@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T01:31:30.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="darepLIrkz_g9E4qJVzJ" version="24.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-17T01:32:24.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6RGEWfjxxLL1_NjQGZ33" version="24.5.4" type="github" pages="3">
   <diagram name="ALU Summary" id="SLZDK1cGRIOzYY7hZdzV">
     <mxGraphModel dx="858" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -661,7 +661,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_H7m3Mu4Hxfc-V-vvd9r" name="Logic Unit">
-    <mxGraphModel dx="2790" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1116" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -824,11 +824,11 @@
             <mxPoint x="360" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULIC8AXWWUmKga697L94-6" value="logic_out" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="592.11" width="60" height="30" as="geometry" />
+        <mxCell id="ULIC8AXWWUmKga697L94-6" value="logic_out [7:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="592.11" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FLyAzHvvrbCv5CxIpv7j-1" value="logic_out_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="50" width="100" height="30" as="geometry" />
+        <mxCell id="FLyAzHvvrbCv5CxIpv7j-1" value="logic_out_flag [5:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
