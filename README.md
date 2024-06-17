@@ -51,6 +51,10 @@ In there:
 - alu_out[7:0]: output of ALU block.
 - alu_out_flag [5:0]: flag output of ALU block.
 
+## WAVE DROM:
+<img src="Image/WAVEDROM.png" width="1000" >  
+
+
   ## Instruction ALU OPCODE ( My design specification)
 The last bit of the code input acts as a mode selection for ALU. Remaining 3 are used for the ALU operation.
 
