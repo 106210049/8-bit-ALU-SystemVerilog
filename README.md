@@ -1,5 +1,20 @@
 # ALU ( Arithmetic and Logic Unit):
 
+## Introduction to ALU:
+
+ An arithmetic-logic unit is the part of a central processing unit that carries out arithmetic and logic operations on the operands in computer instruction words.
+
+ In computer science, ALUs serve as a combinational digital circuit that performs arithmetic and bitwise operations on binary numbers. This is a foundational building block of arithmetic logic circuits for numerous types of control units and computing circuits including central processing units (CPUs), FPUs and graphics processing units.
+
+ The following are a few examples of bitwise logical operations and basic arithmetic operations supported by ALUs:
+
++ Addition. Adds A and B with carry-in or carry-out sum at Y.
++ Subtraction. Subtracts B from A or vice versa with the difference at Y and carry-in or carry-out.
++ Increment. Where A or B is increased by one and Y represents the new value.
++ Decrement. Where A or B is decreased by one and Y represents the new value.
++ AND. The bitwise logic AND of A and B is represented by Y.
++ OR. The bitwise logic OR of A and B is represented by Y.
++ Exclusive-OR. The bitwise logic XOR of A and B is represented by Y.
 ## ALU block:
 
 <img src="Image/ALU_block.png" width="600" >  
