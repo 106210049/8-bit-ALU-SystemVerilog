@@ -323,12 +323,12 @@ endmodule: Logic
 
 ```
 
-# Simulation:
+## Simulation:
 
-## EPWAVE:
+### EPWAVE:
 <img src="Image/EPWAVE.png" width="1000" >  
 
-## Log file:
+### Log file:
 <img src="Image/LOGFILE.png" width="600" >  
 
 My code in EDA Playground: [ALU 8 bit Synthesis](https://edaplayground.com/x/LGC6)
