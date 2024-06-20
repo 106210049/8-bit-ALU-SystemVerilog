@@ -86,9 +86,8 @@ The last bit of the code input acts as a mode selection for ALU. Remaining 3 are
 
 1101 - Mode 1, Logical NOT B
 
-
-
 Source code: CPU_package.sv
+
 ```SystemVerilog
 package CPU_package;
   localparam DATA_WIDTH=8;
@@ -130,6 +129,7 @@ endpackage: CPU_package
 
 <img src="Image/ALU Synthesis.png" width="600" >  
 -----
+
 Source code: ALU
 
 ```SystemVerilog
