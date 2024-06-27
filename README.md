@@ -49,6 +49,7 @@
 |    in_a       |        8     |  input    |  value input a   |
 |    in_b       |        8     |  input    | value input b   |
 |    input_carry|        1     |  input    | value input carry    |
+|    alu_opcode |        4     |  input    |  code for ALU operation |
 |  alu_out      |        8     |  output   | output of ALU block  |
 |  alu_out_flag |        5     |   output  | flag output of ALU block |
 
