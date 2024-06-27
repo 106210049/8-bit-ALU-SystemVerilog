@@ -44,12 +44,14 @@
 ## ALU 8 bit block summary:
 <img src="Image/ALU-8 bit block.png" width="600" >  
 
-In there:
-- in_a[7:0] : value input a.
-- in_b[7:0] : value input b.
-- input_carry: value input carry to ALU
-- alu_out[7:0]: output of ALU block.
-- alu_out_flag [5:0]: flag output of ALU block.
+|      Port     |      Bus size| Direction  |    Description   |
+| :------------:|:-------------:|:--------:|:-----------:      |
+|    in_a       |        8     |  input    |  value input a   |
+|    in_b       |        8     |  input    | value input b   |
+|    input_carry|        1     |  input    | value input carry    |
+|  alu_out      |        8     |  output   | output of ALU block  |
+|  alu_out_flag |        5     |   output  | flag output of ALU block |
+
 
 ## WAVE DROM:
 <img src="Image/WAVEDROM.png" width="1000" >  
