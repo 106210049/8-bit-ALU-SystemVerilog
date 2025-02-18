@@ -3046,7 +3046,7 @@
             <mxPoint x="560" y="129.8571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWhkl_dxLcfeInJ7oQGN-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-87" value="1 bit comparator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fWhkl_dxLcfeInJ7oQGN-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
