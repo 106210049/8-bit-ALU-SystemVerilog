@@ -1698,6 +1698,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="190" as="sourcePoint" />
+            <mxPoint x="130" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="209.67" as="sourcePoint" />
+            <mxPoint x="130" y="209.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="270" as="sourcePoint" />
+            <mxPoint x="100" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="elQKw7UVS5qc6lnsWhk1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="270" as="sourcePoint" />
+            <mxPoint x="150" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="sourcePoint" />
+            <mxPoint x="80" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzevGo4n28OiIGXHWFTC-17" target="elQKw7UVS5qc6lnsWhk1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rzevGo4n28OiIGXHWFTC-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="sourcePoint" />
+            <mxPoint x="130" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-20" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rzevGo4n28OiIGXHWFTC-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
