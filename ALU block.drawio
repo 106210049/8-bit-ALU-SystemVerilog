@@ -1565,6 +1565,9 @@
         <mxCell id="W2KDJ_MxCkgjTWh2_CpK-169" value="S1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="680" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-170" value="S0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
