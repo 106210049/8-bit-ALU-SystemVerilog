@@ -2772,7 +2772,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qlrnRynbStJ-q74nyiB5" name="Comparator">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3003,6 +3003,21 @@
         </mxCell>
         <mxCell id="fWhkl_dxLcfeInJ7oQGN-77" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-78" value="C1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-79" value="C2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-80" value="C3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-81" value="a" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-82" value="b" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
