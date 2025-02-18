@@ -2772,7 +2772,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qlrnRynbStJ-q74nyiB5" name="Comparator">
-    <mxGraphModel dx="574" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2837,7 +2837,7 @@
             <mxPoint x="40" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWhkl_dxLcfeInJ7oQGN-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="fWhkl_dxLcfeInJ7oQGN-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="400" as="sourcePoint" />
             <mxPoint x="60" y="80" as="targetPoint" />
@@ -2938,15 +2938,29 @@
         </mxCell>
         <mxCell id="fWhkl_dxLcfeInJ7oQGN-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fWhkl_dxLcfeInJ7oQGN-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="60" y="225" as="sourcePoint" />
             <mxPoint x="460" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fWhkl_dxLcfeInJ7oQGN-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="239.88888888888886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fWhkl_dxLcfeInJ7oQGN-52" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
-          <mxGeometry x="465" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="465" y="210" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fWhkl_dxLcfeInJ7oQGN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fWhkl_dxLcfeInJ7oQGN-44" target="fWhkl_dxLcfeInJ7oQGN-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="fWhkl_dxLcfeInJ7oQGN-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
+            <mxPoint x="60" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWhkl_dxLcfeInJ7oQGN-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
