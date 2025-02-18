@@ -1754,6 +1754,15 @@
         <mxCell id="rzevGo4n28OiIGXHWFTC-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="120" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="m4x0es16cdjP6mhFY7Fo-1" value="A" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="115" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m4x0es16cdjP6mhFY7Fo-2" value="B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="135" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m4x0es16cdjP6mhFY7Fo-3" value="Bin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
