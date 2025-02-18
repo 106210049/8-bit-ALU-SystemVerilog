@@ -2484,7 +2484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="55b3Hjyonzn3ghfI_3mL" name="4 bit Multipler">
-    <mxGraphModel dx="478" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2512,6 +2512,9 @@
         <mxCell id="R4oPdtED694FvW2WnT5s-1" value="Assignment block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4oPdtED694FvW2WnT5s-2" target="R4oPdtED694FvW2WnT5s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4oPdtED694FvW2WnT5s-2" value="8 bit full adder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="120" height="80" as="geometry" />
         </mxCell>
@@ -2525,6 +2528,18 @@
               <mxPoint x="360" y="230" />
               <mxPoint x="360" y="137" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="160" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="160" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
