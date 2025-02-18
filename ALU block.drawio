@@ -2575,6 +2575,12 @@
         <mxCell id="EPpRjx6TPQJ8D71DgekM-15" value="8 bit full adder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-19" value="m1[7:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-20" value="m2[7:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
