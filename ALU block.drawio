@@ -998,6 +998,15 @@
             <mxPoint x="320" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-35" value="A" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-36" value="B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-37" value="Cin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
