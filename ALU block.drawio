@@ -1605,7 +1605,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MLpMwznImRCIFsy-e_pr" name="8 bit Subtractor">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1738,9 +1738,6 @@
         </mxCell>
         <mxCell id="rzevGo4n28OiIGXHWFTC-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rzevGo4n28OiIGXHWFTC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzevGo4n28OiIGXHWFTC-17" target="elQKw7UVS5qc6lnsWhk1-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzevGo4n28OiIGXHWFTC-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rzevGo4n28OiIGXHWFTC-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2383,6 +2380,9 @@
         </mxCell>
         <mxCell id="SIDxdb6XpKIWNllN_g-L-127" value="Bout0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SIDxdb6XpKIWNllN_g-L-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzevGo4n28OiIGXHWFTC-17" target="elQKw7UVS5qc6lnsWhk1-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
