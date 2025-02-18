@@ -851,7 +851,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="W2KDJ_MxCkgjTWh2_CpK-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="160" width="340" height="220" as="geometry" />
+          <mxGeometry x="100" y="170" width="340" height="210" as="geometry" />
         </mxCell>
         <mxCell id="W2KDJ_MxCkgjTWh2_CpK-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="70" height="40" as="geometry" />
@@ -970,6 +970,12 @@
         </mxCell>
         <mxCell id="W2KDJ_MxCkgjTWh2_CpK-28" value="Cin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-29" value="S" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-30" value="Cout" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
