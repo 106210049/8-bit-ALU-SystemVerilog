@@ -1007,6 +1007,24 @@
         <mxCell id="W2KDJ_MxCkgjTWh2_CpK-37" value="Cin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="60" as="sourcePoint" />
+            <mxPoint x="520" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="99.8" as="sourcePoint" />
+            <mxPoint x="520" y="99.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-40" value="S" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W2KDJ_MxCkgjTWh2_CpK-41" value="Cout" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
