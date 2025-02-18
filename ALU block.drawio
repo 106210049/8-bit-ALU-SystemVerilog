@@ -2603,6 +2603,18 @@
         <mxCell id="EPpRjx6TPQJ8D71DgekM-26" value="Cout" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-27" value="X1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-28" value="X2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-29" value="X3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPpRjx6TPQJ8D71DgekM-30" value="X4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
