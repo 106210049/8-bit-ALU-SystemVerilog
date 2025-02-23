@@ -3966,7 +3966,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zv238B1uhhltapXS7NLk-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="220" width="160" height="100" as="geometry" />
+          <mxGeometry x="200" y="220" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zv238B1uhhltapXS7NLk-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zv238B1uhhltapXS7NLk-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4012,6 +4012,9 @@
         </mxCell>
         <mxCell id="zv238B1uhhltapXS7NLk-12" value="2&#39;b11" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zv238B1uhhltapXS7NLk-1">
           <mxGeometry x="20" y="60" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zv238B1uhhltapXS7NLk-13" value="out[1:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zv238B1uhhltapXS7NLk-1">
+          <mxGeometry x="140" y="40" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
