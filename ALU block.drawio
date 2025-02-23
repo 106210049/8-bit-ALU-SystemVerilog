@@ -3638,7 +3638,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F6aMZybSI6uZ6eZaP0Z6" name="4-bit Comparator">
-    <mxGraphModel dx="724" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3897,7 +3897,7 @@
             <mxPoint x="560" y="329.8571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhgVfPmJmmTM2Dze1d-6-123" value="8 bit comparator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OhgVfPmJmmTM2Dze1d-6-123" value="4 bit comparator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OhgVfPmJmmTM2Dze1d-6-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
